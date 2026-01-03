@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+.env
+assets/focus_music/
+assets/break_music/
+assets/sounds/
+assets/images/
+# Assets
+assets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.spec
