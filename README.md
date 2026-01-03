@@ -38,18 +38,31 @@ It is designed to make long focus sessions feel calm, enjoyable, and less tiring
 
 pandora_timer/
 │
+
 ├── ui_app.py # Main UI application
+
 ├── timer_logic.py # Timer state machine & logic
+
 ├── music_player.py # Audio handling
+
 ├── requirements.txt
+
 │
+
 ├── assets/
+
 │ ├── images/
+
 │ │ └── cats/ # Pixel cat sprites
+
 │ ├── focus_music/ # Focus music files (.mp3)
+
 │ ├── break_music/ # Break music files
+
 │ └── sounds/ # Alarm sounds
+
 │
+
 └── README.md
 
 
